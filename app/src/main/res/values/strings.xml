@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ChessAndroid84</string>
+    <string name="newgame">New Game</string>
+    <string name="savedgames">Saved Games</string>
+    <string name="turn">White\'s Move</string>
+    <string name="undo">Undo</string>
+    <string name="resign">Resign</string>
+    <string name="AI">AI</string>
+    <string name="draw">Draw</string>
+    <string name="title_activity_replay">Replay</string>
+    <string name="prev">Prev</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="delete">Delete</string>
+    <string name="datesort">Sort by Date</string>
+    <string name="titlesort">Sort by Title</string>
+</resources>
